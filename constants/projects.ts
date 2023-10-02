@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
       },
       {
         label: 'Figma Designs',
-        url: 'https://www.figma.com/community/file/1259885133609624464',
+        url: 'https://www.figma.com/',
         //REPLACE FIGMA
       },
     ],
@@ -135,12 +135,16 @@ export const PROJECTS: Project[] = [
     roles: ['Lead Developer', 'Designer'],
     links: [
       {
-        label: 'App Store',
-        url: 'https://apps.apple.com/ca/app/pethsapp/id1544635100',
+        label: 'Explore The Site',
+        url: 'https://',
       },
       {
-        label: 'Google Play',
-        url: 'https://play.google.com/store/apps/details?id=com.trudeausac.pethsapp&hl=en_CA&gl=US',
+        label: 'GitHub Repository',
+        url: 'https://github.com/chandlerkx/ivey-sus',
+      },
+      {
+        label: 'Figma Designs',
+        url: 'https://www.figma.com/file/DHzI4BfPD16dqoY40Z28yz/Ivey-MSc-Sustainability?type=design&node-id=0%3A1&mode=design&t=toSQmBDMZLp4ljgN-1',
       },
     ],
     mockups: [ivey1, ivey2, ivey3, ivey4, ivey5, ivey6],
@@ -170,12 +174,12 @@ export const PROJECTS: Project[] = [
     roles: ['Lead Developer', 'UI/UX Designer'],
     links: [
       {
-        label: 'Explore the Website',
-        url: 'https://uwdatascience.ca',
+        label: 'Explore the Site',
+        url: 'https://',
       },
       {
         label: 'GitHub Repository',
-        url: 'https://github.com/uw-datasci/uwdatasci-website',
+        url: 'https://github.com/prannyv/pump',
       },
     ],
     mockups: [pantry1, pantry2, pantry3, pantry4, pantry5, pantry6],
@@ -206,8 +210,8 @@ export const PROJECTS: Project[] = [
         url: 'https://github.com/prannyv/Pokemon-12-ISU',
       },
       {
-        label: 'Google Play',
-        url: 'https://play.google.com/store/apps/details?id=com.trudeausac.pethsapp&hl=en_CA&gl=US',
+        label: 'Try the Demo',
+        url: 'https://',
       },
     ],
     mockups: [poke1,poke2,poke3,poke4],

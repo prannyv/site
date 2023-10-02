@@ -1,7 +1,6 @@
 
 import { useState, useEffect } from "react";
 // import Typist from "react-typist";
-import Typewriter from 'react-ts-typewriter';
 
 
 

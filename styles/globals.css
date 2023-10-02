@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'GeneralSans-Variable';
+  src: url('../public/fonts/GeneralSans-Variable.woff2') format('woff2'),
+    url('../public/fonts/GeneralSans-Variable.woff') format('woff'),
+    url('../public/fonts/GeneralSans-Variable.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GeneralSans-VariableItalic';
+  src: url('../public/fonts/GeneralSans-VariableItalic.woff2') format('woff2'),
+    url('../public/fonts/GeneralSans-VariableItalic.woff') format('woff'),
+    url('../public/fonts/GeneralSans-VariableItalic.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: italic;
+}
+
+html {
+  @apply scroll-smooth !important;
+}
+
+@layer components {
+  .mx-container {
+    @apply mx-3 3xs:mx-5 xs:mx-7 sm:mx-9 xl:mx-16 3xl:mx-auto 3xl:max-w-[1280px];
+  }
+
+  .transition-300 {
+    @apply duration-300 ease-in-out;
+  }
+
+  .gradient-text {
+    @apply inline bg-clip-text text-transparent;
+  }
+
+  .dark-main-gradient {
+    @apply bg-gradient-to-tr from-[#6E260E] via-black to-[#6E260E];
+  }
+
+  .light-main-gradient {
+    @apply bg-gradient-to-tr from-beige via-beige to-beige;
+  }
+
+  .dark-card-gradient {
+    @apply bg-gradient-to-t from-red to-red;
+  }
+
+  .light-card-gradient {
+    @apply bg-gradient-to-t from-red to-red;
+  }
+
+  .dark-project-gradient {
+    @apply bg-gradient-to-tr from-red via-red to-red;
+  }
+
+  .light-project-gradient {
+    @apply bg-gradient-to-tr from-red via-beige to-red;
+  }
+
+  .dark-uwaterloo-gradient {
+    @apply bg-gradient-to-tr from-purple2 to-purple3;
+  }
+
+  .light-uwaterloo-gradient {
+    @apply bg-gradient-to-tr from-[#CF9FFF] to-[#CF9FFF];
+  }
+
+  .dark-uoft-gradient {
+    @apply bg-gradient-to-tr from-blue via-black to-blue;
+  }
+
+  .light-uoft-gradient {
+    @apply bg-gradient-to-tr from-blue via-beige to-blue;
+  }
+
+  .dark-td-gradient {
+    @apply bg-gradient-to-tr from-green1 to-green1;
+  }
+
+  .light-td-gradient {
+    @apply bg-gradient-to-tr from-[#52B2BF] to-[#52B2BF];
+  }
+}

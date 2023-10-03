@@ -24,7 +24,7 @@ export default function Button({
   font = 'font-medium',
   bg = 'bg-beige dark:bg-black',
   padding = 'px-6 py-4',
-  border = 'rounded-full border border-purple5 dark:border-purple3',
+  border = 'rounded-full border border-green2 dark:border-green2',
   hover,
   classes,
   children,

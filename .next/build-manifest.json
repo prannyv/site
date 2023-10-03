@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/Avog1kW2f0Rzp7kb3R5u6/_buildManifest.js",
-    "static/Avog1kW2f0Rzp7kb3R5u6/_ssgManifest.js"
+    "static/xTMwOJWoph-KO1NQxKC_4/_buildManifest.js",
+    "static/xTMwOJWoph-KO1NQxKC_4/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -15,8 +15,8 @@
       "static/chunks/framework-305cb810cde7afac.js",
       "static/chunks/main-bfbd70c9b9a5a25b.js",
       "static/chunks/959-d5a2a8e1ed0b6cbe.js",
-      "static/chunks/782-6cb07ecbed1e5cd9.js",
-      "static/chunks/pages/index-40337dce49d9019f.js"
+      "static/chunks/782-2e9be85820c61f19.js",
+      "static/chunks/pages/index-8a793e162b1d3504.js"
     ],
     "/_app": [
       "static/chunks/webpack-ee7e63bc15b31913.js",
@@ -36,7 +36,7 @@
       "static/chunks/framework-305cb810cde7afac.js",
       "static/chunks/main-bfbd70c9b9a5a25b.js",
       "static/chunks/959-d5a2a8e1ed0b6cbe.js",
-      "static/chunks/782-6cb07ecbed1e5cd9.js",
+      "static/chunks/782-2e9be85820c61f19.js",
       "static/chunks/pages/projects/ivey-048c8046af9f319f.js"
     ],
     "/projects/miso": [
@@ -44,7 +44,7 @@
       "static/chunks/framework-305cb810cde7afac.js",
       "static/chunks/main-bfbd70c9b9a5a25b.js",
       "static/chunks/959-d5a2a8e1ed0b6cbe.js",
-      "static/chunks/782-6cb07ecbed1e5cd9.js",
+      "static/chunks/782-2e9be85820c61f19.js",
       "static/chunks/pages/projects/miso-872cc6fb37abd08f.js"
     ],
     "/projects/pantry": [
@@ -52,7 +52,7 @@
       "static/chunks/framework-305cb810cde7afac.js",
       "static/chunks/main-bfbd70c9b9a5a25b.js",
       "static/chunks/959-d5a2a8e1ed0b6cbe.js",
-      "static/chunks/782-6cb07ecbed1e5cd9.js",
+      "static/chunks/782-2e9be85820c61f19.js",
       "static/chunks/pages/projects/pantry-9766c08b9dabf352.js"
     ],
     "/projects/poke": [
@@ -60,7 +60,7 @@
       "static/chunks/framework-305cb810cde7afac.js",
       "static/chunks/main-bfbd70c9b9a5a25b.js",
       "static/chunks/959-d5a2a8e1ed0b6cbe.js",
-      "static/chunks/782-6cb07ecbed1e5cd9.js",
+      "static/chunks/782-2e9be85820c61f19.js",
       "static/chunks/pages/projects/poke-78d6dd508be6a6b0.js"
     ],
     "/projects/sightful": [
@@ -68,7 +68,7 @@
       "static/chunks/framework-305cb810cde7afac.js",
       "static/chunks/main-bfbd70c9b9a5a25b.js",
       "static/chunks/959-d5a2a8e1ed0b6cbe.js",
-      "static/chunks/782-6cb07ecbed1e5cd9.js",
+      "static/chunks/782-2e9be85820c61f19.js",
       "static/chunks/pages/projects/sightful-b12f5106bd119b47.js"
     ]
   },

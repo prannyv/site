@@ -71,7 +71,7 @@ export const EXPERIENCES: Experience[] = [
         sm: 'Leading a team in revamping the club website, resulting in 10K+ impressions',
       },
       {
-        lg: 'Networking with other organizations to make websites for their clubs including Ivey Business School, something, and something',
+        lg: 'Networking with other organizations to make websites for their clubs including Ivey Business School and Connecting Youth in Med',
         sm: 'Networking with organizations in delivering a hackathon and events to 400+ students',
       },
       {

@@ -81,11 +81,15 @@ export default function Hero() {
         <span className='gradient-text dark-uwaterloo-gradient dark:light-uwaterloo-gradient'>
           Western University
         </span>
-        &nbsp;and most recently, I worked as a Systems Developer @&nbsp;
-        <span className='gradient-text dark-td-gradient dark:light-td-gradient'>
-          The Office of the Chief Coroner
-        </span>
-        . Here&apos;s some of my work.
+        &nbsp;and most recently, I worked as a Software Engineer @&nbsp;
+        {/* <span className='gradient-text dark-td-gradient dark:light-td-gradient'>
+          Google  
+        </span> */}
+        <span>
+  <span style={{ color: '#4285F4' }}>Google</span>
+</span>
+
+        &nbsp;through the STEP program. Here&apos;s some of my work.
       </p>
       <br/>
       <br/>

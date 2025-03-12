@@ -31,16 +31,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/projects/miso.js"
-    ],
-    "/projects/poke": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/projects/poke.js"
-    ],
-    "/projects/sightful": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/projects/sightful.js"
     ]
   },
   "ampFirstPages": []

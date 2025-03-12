@@ -28,14 +28,7 @@ export default function About() {
           </p>
         ))}
       </div>
-      <Button
-        type='route'
-        route='/#contact'
-        text='md:text-xl text-black dark:text-purple2'
-        padding='px-6 py-4 md:px-8 md:py-5'
-      >
-        Contact Me
-      </Button>
+
     </section>
   );
 }

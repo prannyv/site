@@ -20,18 +20,18 @@ module.exports = {
       full: '9999px',
     },
     colors: {
-      black: '#44624a',
-      beige: '#F7F7F1',
-      purple1: 'rgba(221,225,251,0.7)',
+      black: '#6d6875', //background
+      beige: '#F7F7F1', //text
+      purple1: '#ffffff',
       purple2: '#DDE1FB',
       purple3: '#B4BEFF',
       purple4: 'rgba(77,84,132,0.7)',
       purple5: '#4D5484',
       yellow: '#E3B429',
       blue: '#68ADFF',
-      red: '#73655d',
+      red: '#96bb7b',//card background
       green1: '#89C66D',
-      green2: '#8BA888',
+      green2: '#ccd5ae', //nav bar green
       transparent: 'transparent',
     },
     fontFamily: {

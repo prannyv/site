@@ -18,9 +18,9 @@ import pantry3 from '@/public/img/mockups/pantry-3.png';
 import pantry4 from '@/public/img/mockups/pantry-4.png';
 import pantry5 from '@/public/img/mockups/pantry-5.png';
 import pantry6 from '@/public/img/mockups/pantry-6.png';
-import poke1 from '@/public/img/mockups/poke1.png';
-import poke2 from '@/public/img/mockups/poke2.png';
-import poke3 from '@/public/img/mockups/poke3.png';
+import poke1 from '@/public/img/mockups/mockup1.png';
+import poke2 from '@/public/img/mockups/mockup2.png';
+import poke3 from '@/public/img/mockups/mockup3.png';
 import poke4 from '@/public/img/mockups/poke4.png';
 
 
@@ -186,32 +186,33 @@ export const PROJECTS: Project[] = [
   },
   {
     id: 'poke',
-    title: 'Pokemon Clone',
+    title: 'Qiwi',
     description:
-      "A Pokemon game that pulls elements from various generations to create an original experience complete with random encounters, wild pokemon, abilities, leveling & experience, and gym battles.",
+      "A blockchain based reward system for users to earn points and redeem rewards based on their sustainable purchases.",
     summary: [
-      'A Pokemon game that pulls elements from various generations to create an original experience complete with random encounters, wild pokemon, abilities, leveling & experience, and gym battles.',
-      'Begin the game by selecting a starter Pokemon and travel through the various areas to battle trainers and wild Pokemon to level up.',
-      "The game also includes gym leaders to mark your progress as well as the Elite 4 at the end to complete the game!",
-      "Made in Java for my CS Fundamentals final, I used the project to grasp Object Oriented Programming while working with the Javax Swing graphics systems.",
-      "All maps, sprites, animations, and dialogue is original with game development principles to immerse the player into the world.",
-      'Check out the Github to take a closer look at the project including other demos.',
+      'A blockchain based reward system for users to earn points and redeem rewards based on their sustainable purchases.',
+      'Awarded the ”Best Sustainability Hack” by Fidelity Investments and “Best Use of Metis“ at Hawkhacks 2024.',
+      "Uses Solidity to make and publish smart contracts on the Metis testnet.",
+      "Implemented blockchain systems using web3.js and Next.js to create a user friendly interface for users to view their points and redeem rewards.",
+      "Added functionality to transfer points between users and special incentives for users to redeem rewards.",
+      'Check out the Github to take a closer look at the project including the demo.',
     ],
-    developedFor: 'CS Fundamentals Class',
+    developedFor: 'HawkHacks 2024',
     projectType: 'Java App',
     techStack: [
-      'Java',
-      'Javax Swing',
+      'Next.js',
+      'Node.js',
+      'Tailwind',
+      'Typescript',
+      'Solidity',
+      'Web3.js',
+      'Figma',
     ],
     roles: ['Developer'],
     links: [
       {
         label: 'Github',
-        url: 'https://github.com/prannyv/Pokemon-12-ISU',
-      },
-      {
-        label: 'Try the Demo',
-        url: 'https://',
+        url: 'https://github.com/JackyLiu13/Qiwi',
       },
     ],
     mockups: [poke1,poke2,poke3,poke4],

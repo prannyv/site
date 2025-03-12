@@ -7,7 +7,7 @@ export default function DesktopMenu() {
     'transition-300 text-sm font-[450] text-black hover:text-purple5 dark:text-black dark:hover:text-beige 2xl:text-md';
 
   return (
-    <nav className='hidden gap-10 xl:flex 2xl:gap-12'>
+    <nav className='hidden max-w-[600px] gap-4 xl:flex xl:gap-6 2xl:gap-8'>
       {ROUTES.map((route, i) =>
         route.text === 'Resume' ? (
           <a

@@ -7,12 +7,9 @@ import MobileMenu from '@/components/navigation/MobileMenu';
 
 export default function Header() {
   return (
-    <header className='fixed inset-x-96 justify-center bg-green2 bottom-30 z-50 flex flex-col px-50'
-    
-    >
-      <div className='transition-300 flex items-center justify-center rounded-full bg-green2 px-50 py-3 backdrop-blur 3xs:px-3 3xs:py-4 xs:px-5 xl:-mx-6 xl:px-10'>
-        
-        <div className='flex items-center gap-6 3xs:gap-9 xl:gap-9'>
+    <header className='fixed bottom-30 z-50 w-full flex justify-center'>
+      <div className='transition-300 flex items-center justify-center rounded-full bg-green2 px-6 py-3 backdrop-blur'>
+        <div className='flex items-center gap-4'>
           <DesktopMenu />
           {/* <ThemeToggle /> */}
           <MobileMenuToggle />
